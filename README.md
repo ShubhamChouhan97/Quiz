@@ -1,4 +1,4 @@
 # Quiz
 A Quiz Web Project that have user registration page and user input save the score of user and show their correct and wrong answer at last.
 <br>
-Author - Shubham Singh Chouhan
+Author - Shubham Singh Chouhan(BCA-SE)
