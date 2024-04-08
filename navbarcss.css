@@ -1,0 +1,60 @@
+
+ .topbar{
+   background-color: #666;
+   display: grid;
+   grid-template-columns: 1.5fr 3fr 1fr;/* Center horizontally */
+}
+.topbar ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+.topbar li{
+   display: inline-block;
+   
+}
+.topbar a{
+   padding: 15px 20px;
+   text-decoration: none;
+   display: inline-block;
+   color: white;
+}
+.topbar a:hover{
+   background-color: rgba(0,0,0,0.7);
+   color: white;
+}
+img{
+    width: 100%;
+    height: 580px;
+}
+
+.homebackimage{
+    background-image: url(..//weak1/image/360_F_345973621_sMifpCogXNoIDjmXlbLwx1QZA5ZmQVl8.jpg);
+    width: 100%;
+    height: 580px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.instruction{
+    background-color:aquamarine;
+    width: 350px;
+    height: 150px;
+    border-radius: 20px;
+    border-color: black;
+   padding-top: 60px;
+   padding-left: 20px;
+}
+.hh{
+   display: flex;
+   align-items: flex-end;
+}
+.username{
+   padding-top: 15px;
+ 
+}
+
+#red{
+    font-size: medium;
+}
